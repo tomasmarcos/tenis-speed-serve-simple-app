@@ -1,7 +1,7 @@
-# This is a very basic app to measure the speed. This is hosted on streamlit and every frame goes into memory so try to not overload it. Suggestions are welcomed (pr & see contact bellow).
+# This is a very basic app to measure the speed. This is hosted on streamlit and every frame goes into memory so try to not overload it. Suggestions are welcomed (pr & see contact bellow). You can run this by creating a venv with python 3.11 and then go pip install -r requirements.txt
 
 ## Tenis serve speed app hosted on streamlit (does not contain any machine learning for now).
-## I) Detailed guide on how to use it:")
+## I) Detailed guide on how to use it:"
 Step 1) Upload a video where you are serving, in the bottom left corner of this screen. Make sure the video has only your serve.
 Step 2) Identify the moment 'frame' your raquet makes contact with the ball, using the slideryou can do this using the slider. 
 Step 3) Identify the moment 'frame' the ball crosses the net, you can do this using the slider. Then click select.
